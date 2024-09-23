@@ -4,4 +4,5 @@ here the movie seat booking project result
 DETAILS:
     In this project the user can see the cost of the total seat booking
     and can see the selected seats number.
+    https://mohanakrishnan-03.github.io/f-mohanweb/
     
